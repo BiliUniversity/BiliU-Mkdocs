@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# 欢迎来到B站大学导航站
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+正在筹划中。。。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 叠甲
+本站与Bilibili，哔哩哔哩，以及上海宽娱数码科技有限公司均无关。哔哩哔哩，小电视logo，2233娘的所有画像的版权均为上海宽娱数码科技有限公司所有。
+这个站纯属玩，如有侵权请联系`admin@bilibiili.com`删除（bilib**ii**li，第二个bili有两个i）
