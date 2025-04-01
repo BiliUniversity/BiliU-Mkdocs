@@ -2,3 +2,4 @@ site_name: B站大学导航页
 site_url: https://bili.xn--vjq503a.fun/
 theme: 
   name: material
+repo_url: https://github.com/BiliUniversity/BiliU-Mkdocs
